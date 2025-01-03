@@ -110,14 +110,6 @@ Result: true
 
 ---
 
-## Mejoras Futuras
-
-- Soporte para variables booleanas y asignaciones.
-- Manejo de comentarios en el archivo de entrada.
-- Optimizaciones en la evaluación del AST.
-
----
-
 ## Autor
 **Jonathan Sampera**
 
